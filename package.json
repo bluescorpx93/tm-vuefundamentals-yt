@@ -6,10 +6,12 @@
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "start-app" : "node server.js",
     "start": "npm run dev",
     "build": "node build/build.js"
   },
   "dependencies": {
+    "express": "^4.16.4",
     "vue": "^2.5.2",
     "vue-resource": "^1.5.1",
     "vue-router": "^3.0.1"
