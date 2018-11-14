@@ -4,7 +4,7 @@ To Test This
 
 - Install Package Dependencies
 ```sh
-$ cd tm-vuefundamentals-yt
+$ cd tm-vue-basics-yt
 $ yarn install 
 
 # or with npm
@@ -13,13 +13,13 @@ $ npm install
 
 - Run in Prod Mode
 ```sh
-$ cd tm-vuefundamentals-yt
+$ cd tm-vue-basics-yt
 $ yarn start-app
 ```
 
 - Run in Vue Dev Mode
 ```sh
-$ cd tm-vuefundamentals-yt
+$ cd tm-vue-basics-yt
 $ yarn start
 ```
 
